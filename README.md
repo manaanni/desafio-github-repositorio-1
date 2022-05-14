@@ -1,5 +1,3 @@
-REPOSITORIO DO DESAFIO GIT/GITHUB DIO
-
 *Repositorio criado para o desafio github
 
 LINK ÚTEIS
